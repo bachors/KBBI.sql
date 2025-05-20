@@ -10,4 +10,3 @@ KBBI Daring SQL.
 | 106975|...|...|...|
 
 
-<h2><a href="https://play.google.com/store/apps/details?id=com.bachors.kbbi">DEMO</a></h2>
